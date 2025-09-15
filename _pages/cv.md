@@ -1,68 +1,70 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+# Wenbo Deng
+
+📧 wenbodeng@link.cuhk.edu.cn
+
 ---
 
-{% include base_path %}
+## EDUCATION
 
-Education
-======
-* [cite_start]M.Phil. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2024-Present [cite: 4, 6, 8]
-    * [cite_start]GPA: 3.7/4.0 [cite: 9]
-* [cite_start]B.S. in Applied Physics, Hefei University of Technology, 2020-2024 [cite: 11, 13, 15]
-    * [cite_start]GPA: 3.77/4.3 (Rank: 5/68) [cite: 16]
+**The Chinese University of Hong Kong, Shenzhen**  
+*Master of Philosophy, Computer and Information Engineering*  
+Sep. 2024 – Present, Shenzhen, China  
+- GPA: 3.7/4.0  
+- TOEFL:  
 
-Work experience
-======
-* [cite_start]Mar. 2025 – Aug. 2025: Research Team Leader [cite: 19, 21]
-    * [cite_start]The Chinese University of Hong Kong, Shenzhen [cite: 20]
-    * [cite_start]Project: G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance [cite: 18]
-    * [cite_start]Duties included: Proposed the guidance mechanism for the GRPO algorithm [cite: 22][cite_start], explored the influence of the guided ratio [cite: 23][cite_start], implemented adaptive guidance length based on model performance [cite: 24][cite_start], and introduced Curriculum Learning to improve training effectiveness[cite: 25].
-    * [cite_start]Advisors: Dr. Yongxin Guo, Prof. Xiaoying Tang [cite: 20]
+**Hefei University of Technology (Project 211 University)**  
+*Bachelor of Applied Physics*  
+Sep. 2020 – Jun. 2024, Hefei, China  
+- GPA: 3.77/4.3 (Rank: 5/68)  
 
-* [cite_start]Oct. 2024 – Mar. 2025: Research Team Leader [cite: 26, 30]
-    * [cite_start]The Chinese University of Hong Kong, Shenzhen [cite: 29]
-    * [cite_start]Project: Mixture of attention [cite: 28]
-    * [cite_start]Duties included: Introduced MoE framework into the attention mechanism [cite: 31][cite_start], researched attention matrices of ViT on the CIFAIR-10 dataset [cite: 32][cite_start], and implemented rough calculations for elements with low attention scores based on a pre-set threshold[cite: 33, 34].
-    * [cite_start]Advisors: Dr. Yongxin Guo, Prof. Xiaoying Tang [cite: 29]
+---
 
-* [cite_start]Jul. 2022 – Aug. 2022: Intern [cite: 46]
-    * [cite_start]Department of Information Technology [cite: 48]
-    * [cite_start]Duties included: Investigated and analyzed existing interference servers[cite: 49]. [cite_start]Contributed to the daily operations, maintenance, and management of employee information[cite: 50].
+## RESEARCH
 
-Projects
-======
-* **Fine-tune-ViT** | [cite_start][GitHub Link](https://github.com/Blanca-s/Fine-tune-ViT) [cite: 36, 37]
-    * [cite_start]Compiled a beginner-friendly guide to fine-tuning, simplifying its core concepts from an original perspective[cite: 38].
-    * [cite_start]Successfully explained the concept of fine-tuning to junior labmates[cite: 39].
+### G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance *(Submitted to AAAI)*  
+Mar. 2025 – Aug. 2025  
+Advisor: Dr. Yongxin Guo (Alibaba Group), Prof. Xiaoying Tang (CUHK-Shenzhen)  
 
-Publications
-======
-* Yongxin Guo\*, **Wenbo Deng**\*, Zhenglin Cheng, Xiaoying Tang. [cite_start]"G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance" (Submitted to AAAI) [cite: 18]
+- Worked as the team leader.  
+- Proposed the guidance mechanism for GRPO algorithm.  
+- Explored the influence of guided ratio in the Guided GRPO mechanism.  
+- Implemented adaptive guidance length based on the model performance during training.  
+- Introduced Curriculum Learning into training data, improving training effectiveness.  
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Mixture of Attention  
+Oct. 2024 – Mar. 2025  
+Advisor: Dr. Yongxin Guo (Alibaba Group), Prof. Xiaoying Tang (CUHK-Shenzhen)  
 
-Awards
-======
-* [cite_start]Second-class scholarship of Hefei University of Technology, 2022-2023 [cite: 43]
-* [cite_start]Triple-A Student of Hefei University of Technology, 2021-2022 [cite: 44]
-* [cite_start]Third-class scholarship of Hefei University of Technology, 2021-2022 [cite: 42]
-* [cite_start]Third-class scholarship of Hefei University of Technology, 2020-2021 [cite: 41]
+- Worked as the team leader.  
+- Introduced MoE framework into the attention mechanism.  
+- Researched the attention matrices of each head in ViT during inference on CIFAR-10 dataset.  
+- Pre-set a threshold for low attention scores and applied rough calculation for those elements.  
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+---
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## PROJECT
+
+**Fine-tune-ViT** – [GitHub Repo](https://github.com/Blanca-s/Fine-tune-ViT) | Contributor  
+
+- Compiled a beginner-friendly guide to fine-tuning, simplifying core concepts from an original perspective.  
+- Provided explanations of fine-tuning concepts for junior labmates.  
+
+---
+
+## AWARD
+
+- 12/2020 – 12/2021: Third-class scholarship, Hefei University of Technology  
+- 12/2021 – 12/2022: Third-class scholarship, Hefei University of Technology  
+- 12/2022 – 12/2023: Second-class scholarship, Hefei University of Technology  
+- 12/2021 – 12/2022: Honor of Triple-A Student, Hefei University of Technology  
+
+---
+
+## INTERN
+
+**Sichuan Energy Investment Jinding Industry & Finance Holding Group Co. Ltd.**  
+*Department of Information Technology*  
+Jul. 2022 – Aug. 2022  
+
+- Investigated existing interference server and analyzed pros and cons of each system.  
+- Contributed to daily operations, maintenance, and employee information management.  
