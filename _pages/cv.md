@@ -32,7 +32,7 @@ Sep. 2020 – Jun. 2024, Hefei, China
 
 ## RESEARCH
 
-### G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance *(Submitted to AAAI)*  
+### G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance   
 Mar. 2025 – Aug. 2025  
 Advisor: Dr. Yongxin Guo (Alibaba Group), Prof. Xiaoying Tang (CUHK-Shenzhen)  
 
