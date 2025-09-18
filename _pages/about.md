@@ -9,9 +9,7 @@ redirect_from:
 
 MPhile Student of The Chinese University of Hong Kong, Shenzhen.
 
-```
-wenbodeng [at] link.cuhk.edu.cn
-```
+`wenbodeng [at] link.cuhk.edu.cn`
 
 I am a MPhile student in CUHKSZ and my research interest lies in LLMs field, understanding LLMs, better training them to help people better deploy them within a lower cost. Feel free to reach me throw my E-mail and look me up on my [Google Scholar](https://scholar.google.com/citations?user=oXwixe0AAAAJ&hl=zh-CN) and my [CV](https://blanca-s.github.io/cv/). 
 
