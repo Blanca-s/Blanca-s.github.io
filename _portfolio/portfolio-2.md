@@ -1,6 +1,6 @@
 ---
 title: "Fine-tune ViT"
-excerpt: "This project focuses on understanding the concept of 'fine-tuning'. Reading theory makes people feel confused so this project combines a practical and simple example to help beginners to understand why we need fine-tuning and how it is implemented. <br/><img src='/images/finetunevit.png'> width='500'"
+excerpt: "This project focuses on understanding the concept of 'fine-tuning'. Reading theory makes people feel confused so this project combines a practical and simple example to help beginners to understand why we need fine-tuning and how it is implemented. <br/><img src='/images/finetunevit.png' width='500'> "
 collection: portfolio
 ---
 
