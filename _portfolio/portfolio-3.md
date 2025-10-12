@@ -46,8 +46,18 @@ So, I directly take the average of all attention matrices and normalized the res
 Second, I take a threshold and if the attention score surpasses this threshold, it will be marked as $1$; and if it does not, it will be marked as $0$. Result is visualized below:
 <figure>
   <img src="/images/blockwise_attention.png" 
-       alt="A flowchart showing a process where a model's thinking steps are guided by high-quality examples.">
+       alt="A flowchart showing a process where a model's thinking steps are guided by high-quality examples."
+       style="max-width: 80%; height: auto;">
   <figcaption>Figure 4: Attention score distribution modes proposed by Big Bird.
+  </figcaption>
+</figure>
+
+My original idea is to partition this attention matrix into blocks based on the importance map. And for blocks that are marked as $0$, they will be roughly computed, for example, straight take the average and regard elementes in those blocks as one element; for those are marked as $1$, elements in them will be calculated precisely. The result of partitioning is shown as:
+<figure>
+  <img src="/images/quadtree_partition_result.png" 
+       alt="A flowchart showing a process where a model's thinking steps are guided by high-quality examples."
+       style="max-width: 80%; height: auto;">
+  <figcaption>Figure 5: Partitioning result of importance map.
   </figcaption>
 </figure>
 
