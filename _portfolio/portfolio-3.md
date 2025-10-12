@@ -3,6 +3,10 @@ title: "Mixture of Attention"
 excerpt: "This project is a very basic trial on transplanting the mean idea of MoE into attention mechanism. Because this idea was accomplish by others before my research group, I only carried out a preliminary attempt. However, this research experience had greately elicited my passion on LLMs and really helped me on understanding attention mechanism. <br/><img src='/images/quadtree_partition_result.png' width='500'> "
 collection: portfolio
 ---
+<script>
+  window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 # Transformer structure of ViT
 First we need to be aware that as a simple transformer-based model, ViT has 12 layers of encoder without any decoder. Plus, for each encoder, it has 12 heads. 
