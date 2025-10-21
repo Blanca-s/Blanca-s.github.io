@@ -1,6 +1,13 @@
 ---
+layout: default
+title: "CV"
 permalink: /cv/
 redirect_from:
   - /resume
-redirect_to: /CV.pdf
 ---
+
+<div class="cv-embed" style="min-height: 80vh;">
+  <object data="{{ "/CV.pdf" | relative_url }}" type="application/pdf" width="100%" height="100%">
+    <p>Your browser does not support embedded PDFs. <a href="{{ "/CV.pdf" | relative_url }}" target="_blank" rel="noopener">Download the CV PDF</a>.</p>
+  </object>
+</div>
