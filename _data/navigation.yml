@@ -12,7 +12,8 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv.pdf
+    url: /CV.pdf
+    target: "_blank"
     
   # - title: "CV"
   #   url: /cv-json/
