@@ -21,7 +21,7 @@ redirect_from:
 *Master of Philosophy, Computer and Information Engineering*  
 Sep. 2024 – Present, Shenzhen, China  
 - GPA: 3.7/4.0  
-- TOEFL:  
+- TOEFL: 95
 
 **Hefei University of Technology (Project 211 University)**  
 *Bachelor of Applied Physics*  
@@ -31,6 +31,15 @@ Sep. 2020 – Jun. 2024, Hefei, China
 ---
 
 ## RESEARCH
+
+### Mixture of Attention  
+Oct. 2024 – Mar. 2025  
+Advisor: Dr. Yongxin Guo (Alibaba Group), Prof. Xiaoying Tang (CUHK-Shenzhen)  
+
+- Worked as the team leader.  
+- Introduced MoE framework into the attention mechanism.  
+- Researched the attention matrices of each head in ViT during inference on CIFAR-10 dataset.  
+- Pre-set a threshold for low attention scores and applied rough calculation for those elements.  
 
 ### G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance   
 Mar. 2025 – Aug. 2025  
@@ -42,21 +51,14 @@ Advisor: Dr. Yongxin Guo (Alibaba Group), Prof. Xiaoying Tang (CUHK-Shenzhen)
 - Implemented adaptive guidance length based on the model performance during training.  
 - Introduced Curriculum Learning into training data, improving training effectiveness.  
 
-### Mixture of Attention  
-Oct. 2024 – Mar. 2025  
-Advisor: Dr. Yongxin Guo (Alibaba Group), Prof. Xiaoying Tang (CUHK-Shenzhen)  
-
-- Worked as the team leader.  
-- Introduced MoE framework into the attention mechanism.  
-- Researched the attention matrices of each head in ViT during inference on CIFAR-10 dataset.  
-- Pre-set a threshold for low attention scores and applied rough calculation for those elements.  
-
 ---
 
 ## PROJECT
+**Code-learning-on-attention** – [GitHub Repo](https://github.com/Blanca-s/Code-learning-on-attention) | Contributor  
+- Theoretical study of Transformer structure from the programming aspect.
+- Readers can bettter master the technical details in Transformer. 
 
 **Fine-tune-ViT** – [GitHub Repo](https://github.com/Blanca-s/Fine-tune-ViT) | Contributor  
-
 - Compiled a beginner-friendly guide to fine-tuning, simplifying core concepts from an original perspective.  
 - Provided explanations of fine-tuning concepts for junior labmates.  
 

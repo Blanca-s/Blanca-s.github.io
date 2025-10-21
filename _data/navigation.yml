@@ -12,7 +12,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: /cv.pdf
     
   # - title: "CV"
   #   url: /cv-json/
