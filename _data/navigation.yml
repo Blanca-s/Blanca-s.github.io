@@ -14,6 +14,14 @@ main:
   - title: "CV"
     url: /cv/
     target: "_blank"
+
+  - title: "Graduate Transcript"
+    url: /transcript-graduate/
+    target: "_blank"
+
+  - title: "Undergraduate Transcript"
+    url: /transcript-undergraduate/
+    target: "_blank"
     
   # - title: "CV"
   #   url: /cv-json/
