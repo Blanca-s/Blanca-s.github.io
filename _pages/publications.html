@@ -35,6 +35,12 @@ author_profile: true
           {% if post.teaser2 %}
           <a href="{{ base_path }}{{ post.url }}"><img src="{{ post.teaser2 | prepend: base_path }}" alt="{{ post.title }}" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); display: block;"></a>
           {% endif %}
+          {% if post.teaser3 %}
+          <a href="{{ base_path }}{{ post.url }}"><img src="{{ post.teaser3 | prepend: base_path }}" alt="{{ post.title }}" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); display: block;"></a>
+          {% endif %}
+          {% if post.teaser4 %}
+          <a href="{{ base_path }}{{ post.url }}"><img src="{{ post.teaser4 | prepend: base_path }}" alt="{{ post.title }}" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); display: block;"></a>
+          {% endif %}
         </div>
         {% endif %}
         <div style="flex: 1 1 50%; min-width: 260px; display: flex; flex-direction: column; justify-content: center; font-size: 0.85em; line-height: 1.6;">
