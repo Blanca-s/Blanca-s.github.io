@@ -44,4 +44,4 @@ My research interests center on understanding and improving LLMs. During my MPhi
 </div>
 
 # More about me
-I did my MPhile research at The Chinese University of Hong Kong, Shenzhen. I am gratefule to have been co-advised by my senior Yongxin Guo and my professor Xiaoying Tang. Under their support, I accomplished a research on optimizing the implementation of GRPO algorithm on small-sized LLMs. Before that, I did my undergraduate studies at Hefei University of Technology (Project 211 University) and got a very good GPA there.  
+I did my MPhil research at The Chinese University of Hong Kong, Shenzhen. I am gratefule to have been co-advised by my senior Yongxin Guo and my professor Xiaoying Tang. Under their support, I accomplished a research on optimizing the implementation of GRPO algorithm on small-sized LLMs. Before that, I did my undergraduate studies at Hefei University of Technology (Project 211 University) and got a very good GPA there.  
