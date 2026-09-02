@@ -11,7 +11,7 @@ MPhil Graduate of The Chinese University of Hong Kong, Shenzhen.
 
 `wenbodeng [at] link.cuhk.edu.cn`
 
-I recently graduated with an MPhil degree from CUHKSZ. My research interests lie in the field of LLMs — understanding LLMs and training them better, so that people can deploy them at a lower cost. I am also working on an interesting project that uses training-free VLMs to navigate drones in both simulation environments and the real world. Additionally, I have recently been learning how to use RL methods to help agents call tools more effectively. Feel free to reach me throw my E-mail and look me up on my [Google Scholar](https://scholar.google.com/citations?user=oXwixe0AAAAJ&hl=zh-CN) and my [CV](https://blanca-s.github.io/cv/). 
+I recently graduated with an MPhil degree from CUHKSZ. My research interests lie in the field of LLMs — understanding LLMs and training them better, so that people can deploy them at a lower cost. I am also working on an interesting project that uses training-free VLMs to navigate drones in both simulation environments and the real world. Additionally, I have recently been learning how to use RL methods to help agents call tools more effectively. Feel free to reach me throw my E-mail and look me up on my [Google Scholar](https://scholar.google.com/citations?user=oXwixe0AAAAJ&hl=zh-CN) and my [CV](https://wenbodeng1.github.io/cv/). 
 
 # News
 Our paper has been accepted by ACL main conference 2026!! 🎉🎉🎉
